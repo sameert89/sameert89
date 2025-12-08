@@ -1,21 +1,50 @@
-<h1 align="center">Hi 👋, I'm Sameer Trivedi</h1>
-<h3 align="center">Versatile software developer with strong leadership skills</h3>
+# Sameer Trivedi
+**Design Engineer (Software Engineer) @ Carl Zeiss India**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sameert89&label=Profile%20views&color=0e75b6&style=flat" alt="sameert89" /> </p>
+📍 Bangalore, India | 🌐 [kernelrider.in](https://kernelrider.in)
 
-- 🌱 I’m currently learning **Machine Learning**
+---
 
-- 💬 Ask me about **react, node, JavaScript, C++**
+### About Me
+I am a Software Engineer specializing in backend architecture, scalable microservices, and system performance. Currently, I work at Carl Zeiss India, where I focus on .NET ecosystems, distributed tracing, and resolving complex production issues in core infrastructure.
 
-- 📫 How to reach me **sameertrivedi1234@gmail.com**
+I have a strong background in optimizing application performance (profiling, architectural overhauls) and engineering full-stack device integrations.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12AvLFICX0PZAHGMmMzE4xO-r-JJzScAn/view?usp=sharing](https://drive.google.com/file/d/12AvLFICX0PZAHGMmMzE4xO-r-JJzScAn/view?usp=sharing)
+### 🛠 Technical Stack
+Based on my recent work and projects:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | C#/.NET, Python, JavaScript, C++, Rust |
+| **Backend** | ASP.NET Core, FastAPI, Node.js (Express), Django |
+| **Data** | PostgreSQL, MongoDB, SQL Server, Redis |
+| **Cloud & DevOps** | Azure, Docker, Kubernetes, Nginx, OpenTelemetry |
+| **Frontend** | React, Angular, Svelte, Blazor, TailwindCSS |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githack.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githack.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githack.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githack.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githack.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githack.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githack.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githack.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> </p>
+### 🔭 Featured Projects
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameert89&show_icons=true&locale=en&layout=compact" alt="sameert89" /></p>
+- **[WhereIsMyNotification](https://github.com/sameert89/WhereIsMyNotification)**
+  A cross-platform sync system bridging Windows and mobile devices. Uses native Windows APIs, UWP Notification Listener, and real-time TCP sockets to securely forward notifications to Telegram/Signal.
+
+- **[OpenDeck](https://github.com/sameert89/OpenDeck)**
+  Open-source wireless macro pad built on Raspberry Pi. Features low-latency TCP communication, touchscreen support, and a customizable UI using Python and WinUI3.
+
+- **Personal Cloud Infrastructure**
+  Self-hosted cloud platform on Raspberry Pi 5. Orchestrated with Coolify and Docker, featuring intelligent power management, VPS reverse proxy, and Tailscale networking.
+
+- **BitBinder Knowledge Vault**
+  Knowledge management system that converts Obsidian vaults into interactive websites with graph visualization and advanced search.
+
+### 📄 Publications
+**Enhancing image watermarking efficiency through advanced deep learning (2024)**
+*Digital Signal Processing, Elsevier*
+A novel approach using modified Res-Ception blocks for modern scenarios.
+
+---
+
+### 📬 Connect
+- **Email:** [sameertrivedi1234@gmail.com](mailto:sameertrivedi1234@gmail.com)
+- **LinkedIn:** [linkedin.com/in/sameert89](https://linkedin.com/in/sameert89)
+
+<br />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sameert89&show_icons=true)
