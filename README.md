@@ -47,4 +47,4 @@ A novel approach using modified Res-Ception blocks for modern scenarios.
 - **LinkedIn:** [linkedin.com/in/sameert89](https://linkedin.com/in/sameert89)
 
 <br />
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sameert89&show_icons=true)
+<img src="https://githubcard.com/sameert89.svg?d=EckCCFzg" />
