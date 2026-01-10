@@ -6,7 +6,7 @@
 ---
 
 ### About Me
-I am a Software Engineer specializing in backend architecture, scalable microservices, and system performance. Currently, I work at Carl Zeiss India, where I focus on .NET ecosystems, distributed tracing, and resolving complex production issues in core infrastructure.
+I am a Software Developer specializing in backend architecture, scalable microservices, and system performance. Currently, I work at Carl Zeiss India, where I focus on .NET ecosystems, distributed tracing, and resolving complex production issues in core infrastructure.
 
 I have a strong background in optimizing application performance (profiling, architectural overhauls) and engineering full-stack device integrations.
 
