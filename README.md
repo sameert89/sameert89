@@ -1,5 +1,5 @@
 # Sameer Trivedi
-**Design Engineer (Software Engineer) @ Carl Zeiss India**
+**Software Developer @ZEISS**
 
 📍 Bangalore, India | 🌐 [kernelrider.in](https://kernelrider.in)
 
