@@ -23,11 +23,8 @@ Based on my recent work and projects:
 
 ### 🔭 Featured Projects
 
-- **[WhereIsMyNotification](https://github.com/sameert89/WhereIsMyNotification)**
-  A cross-platform sync system bridging Windows and mobile devices. Uses native Windows APIs, UWP Notification Listener, and real-time TCP sockets to securely forward notifications to Telegram/Signal.
-
-- **[OpenDeck](https://github.com/sameert89/OpenDeck)**
-  Open-source wireless macro pad built on Raspberry Pi. Features low-latency TCP communication, touchscreen support, and a customizable UI using Python and WinUI3.
+- **[Butler.AI](https://github.com/sameert89/Butler.AI)**
+  Fully local, uncensored AI assistant, with 3d models, lipsync & TTS.
 
 - **Personal Cloud Infrastructure**
   Self-hosted cloud platform on Raspberry Pi 5. Orchestrated with Coolify and Docker, featuring intelligent power management, VPS reverse proxy, and Tailscale networking.
